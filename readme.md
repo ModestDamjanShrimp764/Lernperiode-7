@@ -20,6 +20,7 @@
 - [x] Arbeitspaket 3: Schreiben Sie ersten JS-Code als *proof of concept* (bspw. Meldung bei Klick auf Knopf-Element)
 
 Heute habe ich die Basis für meine Valorant-Website gebaut. Ich habe eine Skizze erstellt. Ich habe mehrere Unterseiten erstellt, darunter Waffen, Agenten, Maps und Modi. Alle Seiten nutzen ein einheitliches, modernes Design mit Navigation und API-Datenanzeige. Nächste Woche mache ich weiter.
+
 ![valorantskizze](https://github.com/user-attachments/assets/9336606b-c729-4416-bc97-ef23bba7b306)
 
 ## 31.10.
@@ -32,4 +33,5 @@ Heute habe ich die Basis für meine Valorant-Website gebaut. Ich habe eine Skizz
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
