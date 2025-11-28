@@ -30,8 +30,9 @@ Heute habe ich die Basis für meine Valorant-Website gebaut. Ich habe eine Skizz
 - [ ] Oben auf der agents.html eine Suchleiste einfügen, mit der Agenten nach Name live gefiltert werden
 - [ ] Auf weapons.html eine zusätzliche Auswahl, um Waffen nach Kategorie zu filtern
 
-✍️ Heute habe ich... (50-100 Wörter)
+## 28.11.2025
 
-☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+Heute habe ich nichts zu der Lernperiode 7 gemacht. Ich habe mit Navid die Handlungsziele 1-2 gemacht und an der LB gearbeitet. Es ist gut gelaufen und wir sind gut mit der Zeit. Wir hatten beide die Tage für die LB verpasst deswegen bekamen wir Zeit im Lernatelier daran zu arbeiten. Die Arbeitspakete für die nächste Woche nehme ich mir noch vor.
+
 
 
